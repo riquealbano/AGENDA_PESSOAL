@@ -10,7 +10,9 @@ Cadastra o nome e telefone de pessoas utilizando CRUD
 
 ### 📋 Pré-requisitos
 
-Noção de banco de dados e a necessidade de armazenar nome e telefone de várias pessoas
+Nenhum pré requisito exclusivo para o projeto
+
+Recomendado usar com versões recentes de IDE's
 
 ### 🔧 Instalação
 
@@ -34,13 +36,13 @@ Wamp Server
 
 ## 📌 Versão
 
-**Versão 1.0** - *Conclusão do Projeto* *data 01/12/24*
+**Versão 1.0** - *Finalização* *data 01/12/24*
 
 ## ✒️ Autores
 
-**Henrique Serafim Albano** - *Código inicial* - Agenda Pessoal
+**Henrique Serafim Albano** - *Código completo* - Agenda Pessoal
 
-O projeto foi realizado com sucesso, porém o que foi sugerido de copiar o código do word eu não fiz
+O projeto foi realizado com sucesso, porém o que foi sugerido de copiar o código de um word disponibilizado
 
 Optei por tentar por conta própria, muitos problemas assim como na lição anterior por conta do localhost
 
