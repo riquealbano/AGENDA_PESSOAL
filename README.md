@@ -44,7 +44,7 @@ Wamp Server
 
 O projeto foi realizado com sucesso, porém o que foi sugerido de copiar o código de um word disponibilizado
 
-Optei por tentar por conta própria, muitos problemas assim como na lição anterior por conta do localhost
+Optei por tentar por conta própria, muitos problemas por conta do localhost
 
 Aqui as imagens
 
