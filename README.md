@@ -42,7 +42,7 @@ Wamp Server
 
 **Henrique Serafim Albano** - *Código completo* - Agenda Pessoal
 
-O projeto foi realizado com sucesso, porém o que foi sugerido de copiar o código de um word disponibilizado
+O projeto foi realizado com sucesso.
 
 Optei por tentar por conta própria, muitos problemas por conta do localhost
 
